@@ -9,7 +9,8 @@ This is a PHP project developed to for simple crud.
 - Add product.  
 - Responsive and user-friendly interface (if applicable).  
 - select product in both table and card.  
-- delete product.  
+- delete product. 
+- edit/update product.  
 
 ## Requirements  
 Ensure the following software is installed on your system:  
